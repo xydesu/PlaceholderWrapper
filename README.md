@@ -2,6 +2,8 @@
 
 > 一個 PlaceholderAPI 擴充元件，用於解決 Minecraft 伺服器中當佔位符為空時，外圍裝飾字元（如 `[]`）殘留的問題。
 
+[最新發佈版本下載](https://github.com/xydesu/PlaceholderWrapper/releases/tag/v1.0.0)
+
 ---
 
 ## 核心特色
@@ -15,8 +17,8 @@
 
 ## 安裝方式
 
-1. 下載並編譯本專案，取得 `placeholder-wrapper-1.0.0.jar`。
-2. 將 Jar 檔複製到伺服器的 `/plugins/PlaceholderAPI/expansions/` 資料夾下。
+1. 前往 [GitHub Releases](https://github.com/xydesu/PlaceholderWrapper/releases/tag/v1.0.0) 下載已編譯完成的 `placeholder-wrapper-1.0.0.jar`。
+2. 將該 Jar 檔複製到伺服器的 `/plugins/PlaceholderAPI/expansions/` 資料夾下。
 3. 於伺服器執行 `/papi reload` 載入 Expansion。
 4. 載入成功後，可在 `/plugins/PlaceholderAPI/config.yml` 的 `expansions.wrapper` 底下進行配置。
 
